@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaurishK 
 - 👀 I’m interested in Bot-Making for Discord
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate with my friebd for now
+- 💞️ I’m looking to collaborate with my friend for now
 - 📫 How to reach me- My Discord username is Snek#3351. You can DM me!
 
 <!---
